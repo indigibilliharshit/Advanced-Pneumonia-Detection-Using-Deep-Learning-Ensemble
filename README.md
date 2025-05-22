@@ -257,36 +257,13 @@ if gpus:
 3. Adjust learning rate
 4. Verify class balance
 
-## 📁 Project Structure
-
-```
-pneumonia-detection/
-├── main.py                          # Main pipeline script
-├── advanced_pneumonia_pipeline.py   # Core pipeline class
-├── requirements.txt                 # Dependencies
-├── README.md                        # This file
-├── models/                          # Saved model checkpoints
-│   ├── best_resnet50v2.keras
-│   ├── best_densenet121.keras
-│   └── best_lightweight_cnn.keras
-├── results/                         # Training results and plots
-│   ├── training_curves/
-│   ├── confusion_matrices/
-│   └── evaluation_metrics.json
-└── data/                           # Dataset directory
-    └── chest_xray/
-        ├── train/
-        ├── test/
-        └── val/
-```
-
 ## 🤝 Contributing
 
 ### Development Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pneumonia-detection.git
-cd pneumonia-detection
+git clone https://github.com/Harshit0628/Advanced-Pneumonia-Detection-Using-Deep-Learning-Ensemble.git
+cd Advanced-Pneumonia-Detection-Using-Deep-Learning-Ensemble
 ```
 
 2. Install dependencies
@@ -335,7 +312,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Author**: Indigibilli Harshit
 - **Email**: harshitindigibilli@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/indigibilli-harshit-394366251)
-- **Project Link**: [https://github.com/yourusername/pneumonia-detection](https://github.com/yourusername/pneumonia-detection)
+- **Project Link**: [https://github.com/yourusername/pneumonia-detection]([https://github.com/yourusername/pneumonia-detection](https://github.com/Harshit0628/Advanced-Pneumonia-Detection-Using-Deep-Learning-Ensemble))
 
 ## 📊 Citation
 
